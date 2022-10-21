@@ -1,7 +1,7 @@
 #include "main.h"
 /**
   *print_last_digit - return the value of the last digit
-  *@x: integer whose last value is returned
+  *@x: integer whose last value is returned..
   *Return: 0
   */
 int print_last_digit(int x)
@@ -12,7 +12,7 @@ int print_last_digit(int x)
 
 		dig *= -1;
 
-	_Putchar(dig + '0');
+	_putchar(dig + '0');
 
 	return (0);
 }
