@@ -18,3 +18,4 @@ void print_to_98(int x)
 			printf("%d, ", x++);
 		printf("%d\n", x);
 	}
+}
