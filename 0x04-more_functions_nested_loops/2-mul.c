@@ -7,12 +7,10 @@
   */
 
 int mul(int a, int b)
-{
-	int x, y;
-	
+{	
 	int res;
 
-	res = x * y;
+	res = a * b;
 
 	return (res);
 }
