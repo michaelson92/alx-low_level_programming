@@ -6,19 +6,12 @@
   */
 int _isdigit(int c)
 {
-	int c = 5;
+	int x = 0;
 
 	if (c >= '0' && c <= '9')
-		return (1);
-	else
-
-	return (0);
+		x = 1 ;
+	
+	return (x);
 }
-/**
-  *another- way to solve it
-  *int x = 0;
- *if (c >= '0' && c <= '9')
- *x=1;
-*return (x);
-*/
+
 
