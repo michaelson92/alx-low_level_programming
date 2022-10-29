@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
   * print_array- prints elements of array
   *@a: int type pointer
